@@ -1,0 +1,8 @@
+/Library
+/obj
+/Temp
+/.idea
+*.csproj
+*.sln
+/ProjectSettings
+*.DotSettings.user
